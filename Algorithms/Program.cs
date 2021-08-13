@@ -1,4 +1,5 @@
 ﻿using Algorithms.Problems.Easy;
+using Algorithms.Problems.Medium;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,6 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            
         }
     }
 }

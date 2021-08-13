@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Problems\Easy\1108_Defanging an IP Address.cs" />
+    <Compile Include="Problems\Medium\1476_Subrectangle Queries.cs" />
     <Compile Include="Problems\Easy\1480_Running Sum of 1d Array.cs" />
     <Compile Include="Problems\Easy\1920_Build Array from Permutation.cs" />
     <Compile Include="Problems\Easy\1929_Concatenation of Array.cs" />
@@ -55,7 +56,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Problems\Hard\" />
-    <Folder Include="Problems\Medium\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

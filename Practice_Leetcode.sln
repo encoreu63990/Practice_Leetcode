@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1169
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_Leetcode", "Practice_Leetcode\Practice_Leetcode.csproj", "{854B248D-9781-4C41-B025-BB92B2844E4D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{529B96F7-4307-42BF-9199-20284598310A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{854B248D-9781-4C41-B025-BB92B2844E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{854B248D-9781-4C41-B025-BB92B2844E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{854B248D-9781-4C41-B025-BB92B2844E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{854B248D-9781-4C41-B025-BB92B2844E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529B96F7-4307-42BF-9199-20284598310A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529B96F7-4307-42BF-9199-20284598310A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529B96F7-4307-42BF-9199-20284598310A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529B96F7-4307-42BF-9199-20284598310A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

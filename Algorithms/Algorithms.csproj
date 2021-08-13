@@ -46,6 +46,7 @@
     <Compile Include="Problems\Easy\1108_Defanging an IP Address.cs" />
     <Compile Include="Problems\Easy\1431_Kids With the Greatest Number of Candies.cs" />
     <Compile Include="Problems\Easy\1470_Shuffle the Array.cs" />
+    <Compile Include="Problems\Easy\1512_Number of Good Pairs.cs" />
     <Compile Include="Problems\Easy\1672_Richest Customer Wealth.cs" />
     <Compile Include="Problems\Medium\1476_Subrectangle Queries.cs" />
     <Compile Include="Problems\Easy\1480_Running Sum of 1d Array.cs" />

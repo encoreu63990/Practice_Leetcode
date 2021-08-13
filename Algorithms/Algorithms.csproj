@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Problems\Easy\1920_Build Array from Permutation.cs" />
+    <Compile Include="Problems\Easy\1929_Concatenation of Array.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

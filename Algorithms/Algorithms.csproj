@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Problems\Easy\1108_Defanging an IP Address.cs" />
+    <Compile Include="Problems\Easy\1281_Subtract the Product and Sum of Digits of an Integer.cs" />
     <Compile Include="Problems\Easy\1365_How Many Numbers Are Smaller Than the Current Number.cs" />
     <Compile Include="Problems\Easy\1431_Kids With the Greatest Number of Candies.cs" />
     <Compile Include="Problems\Easy\1470_Shuffle the Array.cs" />

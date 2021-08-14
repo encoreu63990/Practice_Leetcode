@@ -48,6 +48,7 @@
     <Compile Include="Problems\Easy\1431_Kids With the Greatest Number of Candies.cs" />
     <Compile Include="Problems\Easy\1470_Shuffle the Array.cs" />
     <Compile Include="Problems\Easy\1512_Number of Good Pairs.cs" />
+    <Compile Include="Problems\Easy\1528_Shuffle String.cs" />
     <Compile Include="Problems\Easy\1603_Design Parking System.cs" />
     <Compile Include="Problems\Easy\1672_Richest Customer Wealth.cs" />
     <Compile Include="Problems\Easy\771_Jewels and Stones.cs" />

@@ -12,7 +12,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1302_Deepest_Leaves_Sum();
+            var problem = new _807_Max_Increase_to_Keep_City_Skyline();
             problem.Run();
 
             Console.ReadKey();

@@ -69,6 +69,7 @@
     <Compile Include="Problems\Easy\1480_Running Sum of 1d Array.cs" />
     <Compile Include="Problems\Easy\1920_Build Array from Permutation.cs" />
     <Compile Include="Problems\Easy\1929_Concatenation of Array.cs" />
+    <Compile Include="Problems\Medium\1637_Widest Vertical Area Between Two Points Containing No Points.cs" />
     <Compile Include="Problems\Medium\1689_Partitioning Into Minimum Number Of Deci-Binary Numbers.cs" />
     <Compile Include="Problems\Medium\1769_Minimum Number of Operations to Move All Balls to Each Box.cs" />
     <Compile Include="Problems\Medium\1828_Queries on Number of Points Inside a Circle.cs" />

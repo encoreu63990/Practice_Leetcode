@@ -12,7 +12,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1282_Group_the_People_Given_the_Group_Size_They_Belong_To();
+            var problem = new _1637_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points();
             problem.Run();
 
             Console.ReadKey();

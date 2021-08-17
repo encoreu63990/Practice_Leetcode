@@ -57,6 +57,7 @@
     <Compile Include="Problems\Easy\1672_Richest Customer Wealth.cs" />
     <Compile Include="Problems\Easy\1678_Goal Parser Interpretation.cs" />
     <Compile Include="Problems\Easy\1720_Decode XORed Array.cs" />
+    <Compile Include="Problems\Easy\1773_Count Items Matching a Rule.cs" />
     <Compile Include="Problems\Easy\771_Jewels and Stones.cs" />
     <Compile Include="Problems\Medium\1282_Group the People Given the Group Size They Belong To.cs" />
     <Compile Include="Problems\Medium\1302_Deepest Leaves Sum.cs" />

@@ -12,7 +12,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _807_Max_Increase_to_Keep_City_Skyline();
+            var problem = new _1282_Group_the_People_Given_the_Group_Size_They_Belong_To();
             problem.Run();
 
             Console.ReadKey();

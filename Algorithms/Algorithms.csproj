@@ -52,6 +52,7 @@
     <Compile Include="Problems\Easy\1389_Create Target Array in the Given Order.cs" />
     <Compile Include="Problems\Easy\1431_Kids With the Greatest Number of Candies.cs" />
     <Compile Include="Problems\Easy\1470_Shuffle the Array.cs" />
+    <Compile Include="Problems\Easy\1486_XOR Operation in an Array.cs" />
     <Compile Include="Problems\Easy\1512_Number of Good Pairs.cs" />
     <Compile Include="Problems\Easy\1528_Shuffle String.cs" />
     <Compile Include="Problems\Easy\1603_Design Parking System.cs" />

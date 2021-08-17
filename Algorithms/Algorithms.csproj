@@ -62,6 +62,7 @@
     <Compile Include="Problems\Easy\1773_Count Items Matching a Rule.cs" />
     <Compile Include="Problems\Easy\1791_Find Center of Star Graph.cs" />
     <Compile Include="Problems\Easy\771_Jewels and Stones.cs" />
+    <Compile Include="Problems\Easy\938_Range Sum of BST.cs" />
     <Compile Include="Problems\Medium\1282_Group the People Given the Group Size They Belong To.cs" />
     <Compile Include="Problems\Medium\1302_Deepest Leaves Sum.cs" />
     <Compile Include="Problems\Medium\1315_Sum of Nodes with Even-Valued Grandparent.cs" />

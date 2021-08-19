@@ -57,6 +57,7 @@
     <Compile Include="Problems\Easy\1528_Shuffle String.cs" />
     <Compile Include="Problems\Easy\1603_Design Parking System.cs" />
     <Compile Include="Problems\Easy\1614_Maximum Nesting Depth of the Parentheses.cs" />
+    <Compile Include="Problems\Easy\1656_Design an Ordered Stream.cs" />
     <Compile Include="Problems\Easy\1672_Richest Customer Wealth.cs" />
     <Compile Include="Problems\Easy\1678_Goal Parser Interpretation.cs" />
     <Compile Include="Problems\Easy\1720_Decode XORed Array.cs" />

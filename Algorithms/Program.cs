@@ -12,7 +12,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1637_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points();
+            var problem = new _1329_Sort_the_Matrix_Diagonally();
             problem.Run();
 
             Console.ReadKey();

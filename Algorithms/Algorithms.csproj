@@ -72,6 +72,7 @@
     <Compile Include="Problems\Medium\1282_Group the People Given the Group Size They Belong To.cs" />
     <Compile Include="Problems\Medium\1302_Deepest Leaves Sum.cs" />
     <Compile Include="Problems\Medium\1315_Sum of Nodes with Even-Valued Grandparent.cs" />
+    <Compile Include="Problems\Medium\1329_Sort the Matrix Diagonally.cs" />
     <Compile Include="Problems\Medium\1379_Find a Corresponding Node of a Binary Tree in a Clone of That Tree.cs" />
     <Compile Include="Problems\Medium\1409_Queries on a Permutation With Key.cs" />
     <Compile Include="Problems\Medium\1476_Subrectangle Queries.cs" />

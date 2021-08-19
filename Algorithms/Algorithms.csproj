@@ -60,6 +60,7 @@
     <Compile Include="Problems\Easy\1656_Design an Ordered Stream.cs" />
     <Compile Include="Problems\Easy\1672_Richest Customer Wealth.cs" />
     <Compile Include="Problems\Easy\1678_Goal Parser Interpretation.cs" />
+    <Compile Include="Problems\Easy\1688_Count of Matches in Tournament.cs" />
     <Compile Include="Problems\Easy\1720_Decode XORed Array.cs" />
     <Compile Include="Problems\Easy\1773_Count Items Matching a Rule.cs" />
     <Compile Include="Problems\Easy\1791_Find Center of Star Graph.cs" />

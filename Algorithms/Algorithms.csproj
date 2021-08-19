@@ -64,6 +64,7 @@
     <Compile Include="Problems\Easy\1773_Count Items Matching a Rule.cs" />
     <Compile Include="Problems\Easy\1791_Find Center of Star Graph.cs" />
     <Compile Include="Problems\Easy\1859_Sorting the Sentence.cs" />
+    <Compile Include="Problems\Easy\1913_Maximum Product Difference Between Two Pairs.cs" />
     <Compile Include="Problems\Easy\771_Jewels and Stones.cs" />
     <Compile Include="Problems\Easy\938_Range Sum of BST.cs" />
     <Compile Include="Problems\Medium\1038_Binary Search Tree to Greater Sum Tree.cs" />

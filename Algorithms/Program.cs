@@ -12,7 +12,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1329_Sort_the_Matrix_Diagonally();
+            var problem = new _797_All_Paths_From_Source_to_Target();
             problem.Run();
 
             Console.ReadKey();

@@ -12,7 +12,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1817_Finding_the_Users_Active_Minutes();
+            var problem = new _1605_Find_Valid_Matrix_Given_Row_and_Column_Sums();
             problem.Run();
 
             Console.ReadKey();

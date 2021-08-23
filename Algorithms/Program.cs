@@ -12,7 +12,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _763_Partition_Labels();
+            var problem = new _1305_All_Elements_in_Two_Binary_Search_Trees();
             problem.Run();
 
             Console.ReadKey();

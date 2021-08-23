@@ -90,6 +90,7 @@
     <Compile Include="Problems\Medium\1877_Minimize Maximum Pair Sum in Array.cs" />
     <Compile Include="Problems\Medium\535_Encode and Decode TinyURL.cs" />
     <Compile Include="Problems\Medium\654_Maximum Binary Tree.cs" />
+    <Compile Include="Problems\Medium\763_Partition Labels.cs" />
     <Compile Include="Problems\Medium\797_All Paths From Source to Target.cs" />
     <Compile Include="Problems\Medium\807_Max Increase to Keep City Skyline.cs" />
     <Compile Include="Program.cs" />

@@ -12,7 +12,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1605_Find_Valid_Matrix_Given_Row_and_Column_Sums();
+            var problem = new _763_Partition_Labels();
             problem.Run();
 
             Console.ReadKey();

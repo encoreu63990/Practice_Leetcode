@@ -68,6 +68,7 @@
     <Compile Include="Problems\Easy\1913_Maximum Product Difference Between Two Pairs.cs" />
     <Compile Include="Problems\Easy\771_Jewels and Stones.cs" />
     <Compile Include="Problems\Easy\938_Range Sum of BST.cs" />
+    <Compile Include="Problems\Hard\980_Unique Paths III.cs" />
     <Compile Include="Problems\Medium\1008_Construct Binary Search Tree from Preorder Traversal.cs" />
     <Compile Include="Problems\Medium\1038_Binary Search Tree to Greater Sum Tree.cs" />
     <Compile Include="Problems\Medium\1282_Group the People Given the Group Size They Belong To.cs" />
@@ -103,8 +104,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Problems\Hard\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

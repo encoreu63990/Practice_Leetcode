@@ -1,4 +1,5 @@
 ﻿using Algorithms.Problems.Easy;
+using Algorithms.Problems.Hard;
 using Algorithms.Problems.Medium;
 using System;
 using System.Collections.Generic;
@@ -12,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1630_Arithmetic_Subarrays();
+            var problem = new _980_Unique_Paths_III();
             problem.Run();
 
             Console.ReadKey();

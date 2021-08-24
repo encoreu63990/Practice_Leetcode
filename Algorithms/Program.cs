@@ -12,7 +12,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1382_Balance_a_Binary_Search_Tree();
+            var problem = new _1630_Arithmetic_Subarrays();
             problem.Run();
 
             Console.ReadKey();

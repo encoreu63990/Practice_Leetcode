@@ -85,6 +85,7 @@
     <Compile Include="Problems\Easy\1920_Build Array from Permutation.cs" />
     <Compile Include="Problems\Easy\1929_Concatenation of Array.cs" />
     <Compile Include="Problems\Medium\1551_Minimum Operations to Make Array Equal.cs" />
+    <Compile Include="Problems\Medium\1557_Minimum Number of Vertices to Reach All Nodes.cs" />
     <Compile Include="Problems\Medium\1561_Maximum Number of Coins You Can Get.cs" />
     <Compile Include="Problems\Medium\1605_Find Valid Matrix Given Row and Column Sums.cs" />
     <Compile Include="Problems\Medium\1630_Arithmetic Subarrays.cs" />

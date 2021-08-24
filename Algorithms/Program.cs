@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1557_Minimum_Number_of_Vertices_to_Reach_All_Nodes();
+            var problem = new _1079_Letter_Tile_Possibilities();
             problem.Run();
 
             Console.ReadKey();

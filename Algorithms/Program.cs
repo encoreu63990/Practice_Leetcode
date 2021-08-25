@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1079_Letter_Tile_Possibilities();
+            var problem = new _950_Reveal_Cards_In_Increasing_Order();
             problem.Run();
 
             Console.ReadKey();

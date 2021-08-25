@@ -78,6 +78,7 @@
     <Compile Include="Problems\Medium\1305_All Elements in Two Binary Search Trees.cs" />
     <Compile Include="Problems\Medium\1315_Sum of Nodes with Even-Valued Grandparent.cs" />
     <Compile Include="Problems\Medium\1329_Sort the Matrix Diagonally.cs" />
+    <Compile Include="Problems\Medium\1347_Minimum Number of Steps to Make Two Strings Anagram.cs" />
     <Compile Include="Problems\Medium\1379_Find a Corresponding Node of a Binary Tree in a Clone of That Tree.cs" />
     <Compile Include="Problems\Medium\1381_Design a Stack With Increment Operation.cs" />
     <Compile Include="Problems\Medium\1382_Balance a Binary Search Tree.cs" />

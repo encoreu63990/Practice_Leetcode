@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1669_Merge_In_Between_Linked_Lists();
+            var problem = new _1829_Maximum_XOR_for_Each_Query();
             problem.Run();
 
             Console.ReadKey();

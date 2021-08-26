@@ -99,6 +99,7 @@
     <Compile Include="Problems\Medium\1769_Minimum Number of Operations to Move All Balls to Each Box.cs" />
     <Compile Include="Problems\Medium\1817_Finding the Users Active Minutes.cs" />
     <Compile Include="Problems\Medium\1828_Queries on Number of Points Inside a Circle.cs" />
+    <Compile Include="Problems\Medium\1829_Maximum XOR for Each Query.cs" />
     <Compile Include="Problems\Medium\1877_Minimize Maximum Pair Sum in Array.cs" />
     <Compile Include="Problems\Medium\535_Encode and Decode TinyURL.cs" />
     <Compile Include="Problems\Medium\654_Maximum Binary Tree.cs" />

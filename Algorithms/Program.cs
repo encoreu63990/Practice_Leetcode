@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _950_Reveal_Cards_In_Increasing_Order();
+            var problem = new _1641_Count_Sorted_Vowel_Strings();
             problem.Run();
 
             Console.ReadKey();

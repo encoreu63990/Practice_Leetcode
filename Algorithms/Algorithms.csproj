@@ -93,6 +93,7 @@
     <Compile Include="Problems\Medium\1605_Find Valid Matrix Given Row and Column Sums.cs" />
     <Compile Include="Problems\Medium\1630_Arithmetic Subarrays.cs" />
     <Compile Include="Problems\Medium\1637_Widest Vertical Area Between Two Points Containing No Points.cs" />
+    <Compile Include="Problems\Medium\1641_Count Sorted Vowel Strings.cs" />
     <Compile Include="Problems\Medium\1689_Partitioning Into Minimum Number Of Deci-Binary Numbers.cs" />
     <Compile Include="Problems\Medium\1769_Minimum Number of Operations to Move All Balls to Each Box.cs" />
     <Compile Include="Problems\Medium\1817_Finding the Users Active Minutes.cs" />

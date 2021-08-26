@@ -108,6 +108,7 @@
     <Compile Include="Problems\Medium\763_Partition Labels.cs" />
     <Compile Include="Problems\Medium\797_All Paths From Source to Target.cs" />
     <Compile Include="Problems\Medium\807_Max Increase to Keep City Skyline.cs" />
+    <Compile Include="Problems\Medium\861_Score After Flipping Matrix.cs" />
     <Compile Include="Problems\Medium\890_Find and Replace Pattern.cs" />
     <Compile Include="Problems\Medium\921_Minimum Add to Make Parentheses Valid.cs" />
     <Compile Include="Problems\Medium\950_Reveal Cards In Increasing Order.cs" />

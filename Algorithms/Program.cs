@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1829_Maximum_XOR_for_Each_Query();
+            var problem = new _861_Score_After_Flipping_Matrix();
             problem.Run();
 
             Console.ReadKey();

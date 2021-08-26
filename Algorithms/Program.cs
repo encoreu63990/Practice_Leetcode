@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1641_Count_Sorted_Vowel_Strings();
+            var problem = new _1669_Merge_In_Between_Linked_Lists();
             problem.Run();
 
             Console.ReadKey();

@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1314_Matrix_Block_Sum();
+            var problem = new _1104_Path_In_Zigzag_Labelled_Binary_Tree();
             problem.Run();
 
             Console.ReadKey();

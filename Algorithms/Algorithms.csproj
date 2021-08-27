@@ -76,6 +76,7 @@
     <Compile Include="Problems\Medium\1282_Group the People Given the Group Size They Belong To.cs" />
     <Compile Include="Problems\Medium\1302_Deepest Leaves Sum.cs" />
     <Compile Include="Problems\Medium\1305_All Elements in Two Binary Search Trees.cs" />
+    <Compile Include="Problems\Medium\1314_Matrix Block Sum.cs" />
     <Compile Include="Problems\Medium\1315_Sum of Nodes with Even-Valued Grandparent.cs" />
     <Compile Include="Problems\Medium\1325_Delete Leaves With a Given Value.cs" />
     <Compile Include="Problems\Medium\1329_Sort the Matrix Diagonally.cs" />

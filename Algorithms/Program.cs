@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _861_Score_After_Flipping_Matrix();
+            var problem = new _1314_Matrix_Block_Sum();
             problem.Run();
 
             Console.ReadKey();

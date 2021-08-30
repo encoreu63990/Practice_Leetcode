@@ -74,6 +74,7 @@
     <Compile Include="Problems\Medium\1079_Letter Tile Possibilities.cs" />
     <Compile Include="Problems\Medium\1104_Path In Zigzag Labelled Binary Tree.cs" />
     <Compile Include="Problems\Medium\1261_Find Elements in a Contaminated Binary Tree.cs" />
+    <Compile Include="Problems\Medium\1277_Count Square Submatrices with All Ones.cs" />
     <Compile Include="Problems\Medium\1282_Group the People Given the Group Size They Belong To.cs" />
     <Compile Include="Problems\Medium\1302_Deepest Leaves Sum.cs" />
     <Compile Include="Problems\Medium\1305_All Elements in Two Binary Search Trees.cs" />

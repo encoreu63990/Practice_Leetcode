@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1104_Path_In_Zigzag_Labelled_Binary_Tree();
+            var problem = new _1277_Count_Square_Submatrices_with_All_Ones();
             problem.Run();
 
             Console.ReadKey();

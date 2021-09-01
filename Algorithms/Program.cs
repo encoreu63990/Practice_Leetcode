@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1442_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR();
+            var problem = new _1823_Find_the_Winner_of_the_Circular_Game();
             problem.Run();
 
             Console.ReadKey();

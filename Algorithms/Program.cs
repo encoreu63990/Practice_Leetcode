@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1850_Minimum_Adjacent_Swaps_to_Reach_the_Kth_Smallest_Number();
+            var problem = new _31_Next_Permutation();
             problem.Run();
 
             Console.ReadKey();

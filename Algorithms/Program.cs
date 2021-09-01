@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1277_Count_Square_Submatrices_with_All_Ones();
+            var problem = new _1850_Minimum_Adjacent_Swaps_to_Reach_the_Kth_Smallest_Number();
             problem.Run();
 
             Console.ReadKey();

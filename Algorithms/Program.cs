@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _31_Next_Permutation();
+            var problem = new _1442_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR();
             problem.Run();
 
             Console.ReadKey();

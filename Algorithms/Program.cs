@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1823_Find_the_Winner_of_the_Circular_Game();
+            var problem = new _811_Subdomain_Visit_Count();
             problem.Run();
 
             Console.ReadKey();

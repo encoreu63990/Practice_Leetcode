@@ -95,6 +95,7 @@
     <Compile Include="Problems\Easy\1480_Running Sum of 1d Array.cs" />
     <Compile Include="Problems\Easy\1920_Build Array from Permutation.cs" />
     <Compile Include="Problems\Easy\1929_Concatenation of Array.cs" />
+    <Compile Include="Problems\Medium\1529_Bulb Switcher IV.cs" />
     <Compile Include="Problems\Medium\1551_Minimum Operations to Make Array Equal.cs" />
     <Compile Include="Problems\Medium\1557_Minimum Number of Vertices to Reach All Nodes.cs" />
     <Compile Include="Problems\Medium\1561_Maximum Number of Coins You Can Get.cs" />

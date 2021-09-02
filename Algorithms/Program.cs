@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1402_Reducing_Dishes();
+            var problem = new _1529_Bulb_Switcher_IV();
             problem.Run();
 
             Console.ReadKey();

@@ -88,6 +88,7 @@
     <Compile Include="Problems\Medium\1382_Balance a Binary Search Tree.cs" />
     <Compile Include="Problems\Medium\1409_Queries on a Permutation With Key.cs" />
     <Compile Include="Problems\Medium\1442_Count Triplets That Can Form Two Arrays of Equal XOR.cs" />
+    <Compile Include="Problems\Medium\1472_Design Browser History.cs" />
     <Compile Include="Problems\Medium\1476_Subrectangle Queries.cs" />
     <Compile Include="Problems\Easy\1480_Running Sum of 1d Array.cs" />
     <Compile Include="Problems\Easy\1920_Build Array from Permutation.cs" />

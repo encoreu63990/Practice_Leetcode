@@ -113,6 +113,7 @@
     <Compile Include="Problems\Medium\1850_Minimum Adjacent Swaps to Reach the Kth Smallest Number.cs" />
     <Compile Include="Problems\Medium\1877_Minimize Maximum Pair Sum in Array.cs" />
     <Compile Include="Problems\Medium\31_Next Permutation.cs" />
+    <Compile Include="Problems\Medium\419_Battleships in a Board.cs" />
     <Compile Include="Problems\Medium\535_Encode and Decode TinyURL.cs" />
     <Compile Include="Problems\Medium\654_Maximum Binary Tree.cs" />
     <Compile Include="Problems\Medium\701_Insert into a Binary Search Tree.cs" />

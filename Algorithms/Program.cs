@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1529_Bulb_Switcher_IV();
+            var problem = new _1638_Count_Substrings_That_Differ_by_One_Character();
             problem.Run();
 
             Console.ReadKey();

@@ -103,6 +103,7 @@
     <Compile Include="Problems\Medium\1605_Find Valid Matrix Given Row and Column Sums.cs" />
     <Compile Include="Problems\Medium\1630_Arithmetic Subarrays.cs" />
     <Compile Include="Problems\Medium\1637_Widest Vertical Area Between Two Points Containing No Points.cs" />
+    <Compile Include="Problems\Medium\1638_Count Substrings That Differ by One Character.cs" />
     <Compile Include="Problems\Medium\1641_Count Sorted Vowel Strings.cs" />
     <Compile Include="Problems\Medium\1669_Merge In Between Linked Lists.cs" />
     <Compile Include="Problems\Medium\1689_Partitioning Into Minimum Number Of Deci-Binary Numbers.cs" />

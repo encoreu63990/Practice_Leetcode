@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1638_Count_Substrings_That_Differ_by_One_Character();
+            var problem = new _1910_Remove_All_Occurrences_of_a_Substring();
             problem.Run();
 
             Console.ReadKey();

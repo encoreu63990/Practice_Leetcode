@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1910_Remove_All_Occurrences_of_a_Substring();
+            var problem = new _1395_Count_Number_of_Teams();
             problem.Run();
 
             Console.ReadKey();

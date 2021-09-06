@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1395_Count_Number_of_Teams();
+            var problem = new _1028_Recover_a_Tree_From_Preorder_Traversal();
             problem.Run();
 
             Console.ReadKey();

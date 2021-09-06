@@ -126,6 +126,7 @@
     <Compile Include="Problems\Medium\797_All Paths From Source to Target.cs" />
     <Compile Include="Problems\Medium\807_Max Increase to Keep City Skyline.cs" />
     <Compile Include="Problems\Medium\811_Subdomain Visit Count.cs" />
+    <Compile Include="Problems\Medium\814_Binary Tree Pruning.cs" />
     <Compile Include="Problems\Medium\861_Score After Flipping Matrix.cs" />
     <Compile Include="Problems\Medium\890_Find and Replace Pattern.cs" />
     <Compile Include="Problems\Medium\921_Minimum Add to Make Parentheses Valid.cs" />

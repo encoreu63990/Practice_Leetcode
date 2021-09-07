@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1028_Recover_a_Tree_From_Preorder_Traversal();
+            var problem = new _1255_Maximum_Score_Words_Formed_by_Letters();
             problem.Run();
 
             Console.ReadKey();

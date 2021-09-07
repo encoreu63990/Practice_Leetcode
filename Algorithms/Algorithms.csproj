@@ -69,6 +69,7 @@
     <Compile Include="Problems\Easy\771_Jewels and Stones.cs" />
     <Compile Include="Problems\Easy\938_Range Sum of BST.cs" />
     <Compile Include="Problems\Hard\1028_Recover a Tree From Preorder Traversal.cs" />
+    <Compile Include="Problems\Hard\1255_Maximum Score Words Formed by Letters.cs" />
     <Compile Include="Problems\Hard\1402_Reducing Dishes.cs" />
     <Compile Include="Problems\Hard\980_Unique Paths III.cs" />
     <Compile Include="Problems\Medium\1008_Construct Binary Search Tree from Preorder Traversal.cs" />

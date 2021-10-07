@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1255_Maximum_Score_Words_Formed_by_Letters();
+            var problem = new _1026_Maximum_Difference_Between_Node_and_Ancestor();
             problem.Run();
 
             Console.ReadKey();

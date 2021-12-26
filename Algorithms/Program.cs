@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _1026_Maximum_Difference_Between_Node_and_Ancestor();
+            var problem = new _51_N_Queens();
             problem.Run();
 
             Console.ReadKey();

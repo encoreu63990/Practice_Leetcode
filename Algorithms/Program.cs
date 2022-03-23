@@ -13,7 +13,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var problem = new _51_N_Queens();
+            var problem = new _4_Median_of_Two_Sorted_Arrays();
             problem.Run();
 
             Console.ReadKey();
